@@ -1,0 +1,16 @@
+# dataset 제외
+dataset/
+datacollector/dataset/
+
+# 가상환경 제외
+venv*/
+__pycache__/
+
+# 모델 중간 결과물
+*.pth
+*.pt
+*.trt
+*.onnx
+
+# 로그
+*.log

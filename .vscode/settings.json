@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "editor.fontSize": 30,
+    "editor.mouseWheelZoom": true,
+    "terminal.intergrated.fontSize" : 24,
+    "python.defaultInterpreterPath": ".venv/venv312/Scripts/python.exe",
+    "python.terminal.activateEnvironment": true,
+    "python-envs.pythonProjects": [],
+    "python-envs.defaultEnvManager": "ms-python.python:venv"
+}
